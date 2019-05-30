@@ -66,7 +66,8 @@ and the sum is
 
 
 . 
-Function Description 
+### Function Description 
+
 Complete the maxSubarray function in the editor below. It should return an array of two integers: the maximum subarray sum and the maximum subsequence sum of 
 
 
