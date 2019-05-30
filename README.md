@@ -61,7 +61,9 @@ Print two space-separated integers denoting the maximum sums of nonempty subarra
 1 2 3 4
 6
 2 -1 2 3 4 -5
-Sample Output 0
+
+### Sample Output 0
+
 10 10
 10 11
 Explanation 0
