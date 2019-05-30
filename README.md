@@ -9,68 +9,20 @@ Note that empty subarrays/subsequences should not be considered.
 For example, given an array 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 , the maximum subarray sum is comprised of element inidices 
 
-
-
-
-
 and the sum is 
-
-
-
-
-
-
-
-
-
-
-
 
 . The maximum subsequence sum is comprised of element indices 
 
 
-
-
-
-
-
-
-
 and the sum is 
-
-
-
-
-
-
-
 
 
 . 
 ### Function Description 
 
 Complete the maxSubarray function in the editor below. It should return an array of two integers: the maximum subarray sum and the maximum subsequence sum of 
-
-
 
 . 
 maxSubarray has the following parameter(s): 
@@ -88,41 +40,11 @@ The second line contains
 
 space-separated integers 
 
-
-
-
-
-
 where 
-
-
-
-
 
 . 
 
 ### Constraints
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -147,24 +69,7 @@ In the first case: The maximum sum for both types of subsequences is just the su
 In the second case: The subarray 
 
 
-
-
-
-
-
-
-
-
-
-
 is the subarray with the maximum sum, and 
-
-
-
-
-
-
-
 
 
 is the subsequence with the maximum sum.
