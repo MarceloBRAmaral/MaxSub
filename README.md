@@ -76,7 +76,7 @@ Complete the maxSubarray function in the editor below. It should return an array
 maxSubarray has the following parameter(s): 
 arr: an array of integers 
 
-###Input Format
+### Input Format
 
 The first line of input contains a single integer 
 
