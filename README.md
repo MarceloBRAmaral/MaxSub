@@ -77,7 +77,9 @@ is the subarray with the maximum sum, and
 
 
 is the subsequence with the maximum sum.
-Sample Input 1
+
+### Sample Input 1
+
 1
 5
 -2 -3 -1 -4 -6
