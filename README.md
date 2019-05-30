@@ -127,7 +127,9 @@ where
 
 
 The subarray and subsequences you consider should have at least one element.
-Output Format
+
+### Output Format
+
 Print two space-separated integers denoting the maximum sums of nonempty subarrays and nonempty subsequences, respectively. 
 Sample Input 0
 2
