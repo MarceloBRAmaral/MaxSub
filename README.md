@@ -87,7 +87,9 @@ is the subsequence with the maximum sum.
 ### Sample Output 1
 
 -1 -1
-Explanation 1
+
+### Explanation 1
+
 Since all of the numbers are negative, both the maximum subarray and maximum subsequence sums are made up of one element, 
 
 
