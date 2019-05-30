@@ -66,7 +66,9 @@ Print two space-separated integers denoting the maximum sums of nonempty subarra
 
 10 10
 10 11
-Explanation 0
+
+### Explanation 0
+
 In the first case: The maximum sum for both types of subsequences is just the sum of all the elements since they are all positive.
 In the second case: The subarray 
 
