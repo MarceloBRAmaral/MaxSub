@@ -11,10 +11,7 @@ Print the two values as space-separated integers on one line.
 
 ***Note*** that empty subarrays/subsequences should not be considered. 
 
-For example, given an array 
-
-
-, the maximum subarray sum is comprised of element inidices 
+For example, given an array ***arr = [-1,2,3,-4,5,10]***, the maximum subarray sum is comprised of element inidices 
 
 and the sum is 
 
