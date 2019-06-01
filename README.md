@@ -11,9 +11,7 @@ Print the two values as space-separated integers on one line.
 
 ***Note*** that empty subarrays/subsequences should not be considered. 
 
-For example, given an array ***arr = [-1,2,3,-4,5,10]***, the maximum subarray sum is comprised of element indices ***[1 - 5]*** and the sum is 
-
-. The maximum subsequence sum is comprised of element indices 
+For example, given an array ***arr = [-1,2,3,-4,5,10]***, the maximum subarray sum is comprised of element indices ***[1 - 5]*** and the sum is ***2 + 3 + -4 + 5 + 10 = 16***. The maximum subsequence sum is comprised of element indices 
 
 
 and the sum is 
