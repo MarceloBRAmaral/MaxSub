@@ -8,6 +8,7 @@ Given an array, find the maximum possible sum among:
 2. all nonempty subsequences. 
 
 Print the two values as space-separated integers on one line. 
+
 Note that empty subarrays/subsequences should not be considered. 
 For example, given an array 
 
